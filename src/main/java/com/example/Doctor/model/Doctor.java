@@ -21,7 +21,7 @@ public class Doctor {
     private  String doctorName;
     @Column(name = "experience")
     private  String experience ;
-    @Column(name =  "specialzed_in")
+    @Column(name =  "specialized_in")
     private  String specializedIn;
 
 
